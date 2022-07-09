@@ -147,6 +147,8 @@ api-gateway now running 8082 port and user-ws access via api-gateway as
 http://localhost:8082/user-ws/user/ping
 ``````````````````````````
 
+![img_2.png](img_2.png)
+
 
 
 
